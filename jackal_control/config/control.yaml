@@ -22,6 +22,9 @@ jackal_velocity_controller:
     wheel_radius: 0.098
     wheel_separation: 0.37559
     wheels_per_side: 2
+    # open_loop: true
+    # publish_limited_velocity: false
+    # velocity_rolling_window_size: 10
 
     k_l: 0.1
     k_r: 0.1
